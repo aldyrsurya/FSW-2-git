@@ -15,4 +15,3 @@ Ewang
 
 Aldy
 eka
-Aldy
